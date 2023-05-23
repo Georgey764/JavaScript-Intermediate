@@ -1,3 +1,3 @@
 # JavaScript-Intermediate
 
-These are Intermediate JavaScript Practice projects I worked on.
+These are Intermediate JavaScript practice projects I worked on.
