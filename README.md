@@ -9,5 +9,5 @@ Pig Game: https://georgey764.github.io/JavaScript-Intermediate/Pig%20Game/index.
   First to 50 wins.
   
 Simon Game: https://georgey764.github.io/JavaScript-Intermediate/Simon%20Game/index.html
-  The tiles will blink and you have to click the blinking tiles.
+  The tiles will blink and you have to click the blinking tiles in the correct order.
   Each time you click the correct tile the level progresses and as you reach new level a new tile will blink. However, before clicking the     new blinking tile, you have to correctly click all the previous tiles that blinked in the correct order, then only will you progress to     the next level.
