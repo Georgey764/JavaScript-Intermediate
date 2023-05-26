@@ -1,6 +1,7 @@
 # JavaScript-Intermediate
 
-These are Intermediate JavaScript practice projects I worked on.
+These are Intermediate JavaScript practice projects I worked on. The html and css files do not belong to me. 
+I just coded the behaviour of the web page.
 
 Pig Game: https://georgey764.github.io/JavaScript-Intermediate/Pig%20Game/index.html
   Roll dice to get points.
